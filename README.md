@@ -1,7 +1,7 @@
 # Cache_Performace_Simulations
 This repsoitory may serve as a getting-started guide for those interested in utilizying computer achitecture simualtors such as SimpleScalar and Gem5
 
-# Getting Started
+# Getting Started with SimpleScalr and Gem5
 Follow the links and instructions in teh HOW_to files and you will be able to install and run your first simualtions in SimpleScalar and Gem5. The How_to files for SimpleScalar were created as part of assignments for a Micropcomputer Systems Class at Florida Internatioanl University (FIU), so there might be information specifically related to the assignments. However, if you follow the whole document you will get a better understanding of teh tools. The how_to for Gem5 is still in progress, but contains a lot of usefull information on how to install and run frist commands.
 
 # Binaries
