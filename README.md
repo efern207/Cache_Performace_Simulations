@@ -8,7 +8,7 @@ Follow the links and instructions in teh HOW_to files and you will be able to in
 The "Binaries" files contains SPEC binaries for Gem5 and a matmul.c file that can be used in both Gem5 and SimpleScalar.
 
 
-# Levering Python
+# Leveraging Python
 The file contain a sample Python stcript written for Gem5 buit that can be adapted to SimpleScalr to perform optimization iterations. We used it to run different optimization paraments for Cache performance.
 
 
