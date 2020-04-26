@@ -11,8 +11,8 @@ The "Binaries" files contains SPEC binaries for Gem5 and a matmul.c file that ca
 # Leveraging Python
 The file contain a sample Python stcript written for Gem5 buit that can be adapted to SimpleScalr to perform optimization iterations. We used it to run different optimization paraments for Cache performance.
 
-# Output Files
-We collected several output files from both simualtion. Hope it helps as a reference for those intereted
+# Output Files and Simualtion Analysis
+Output files from both simualtion (SimpleScalar and Gem5) are attched along with the simualtion analysis and graphs from the results. Hope it helps as a reference for those intereted
 
 
 # Cahe Performce in Memory Hierarchy: A Cross-Simualtor Analysis using SimpleScalar and Gem5
